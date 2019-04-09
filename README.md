@@ -193,7 +193,7 @@ Response
 }
 ```
 
-### GET `/users` 获取所有留言
+### GET `/mesages` 获取所有留言
 
 Response
 
