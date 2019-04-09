@@ -18,6 +18,7 @@ form-data
 {
 	"username": "wuhan",
 	"phone": "123666",  //手机号，不可重复
+	"password":"pwd",   //密码
 	"age": 19
 }
 ```
