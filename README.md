@@ -97,7 +97,7 @@ Response
 
 Param
 
-- `phone`:(phone)用户电话
+- `phone`:(string)用户电话
 
 Response
 
