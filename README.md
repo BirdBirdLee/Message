@@ -340,7 +340,7 @@ HttpStatusCode:`200`
 
 
 
-### DELETE `/user/uid/{uid}` 删除某人所有留言
+### DELETE `/message/uid/{uid}` 删除某人所有留言
 
 Param
 
